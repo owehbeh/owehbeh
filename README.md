@@ -1,5 +1,7 @@
 # Hi there 👋 it's Omar
 ## Full Stack Developer (BE Heavy) | AWS Certified Developer - Associate
+[![Stats](https://github-stats-alpha.vercel.app/api?username=owehbeh)](https://github.com/owehbeh)
+
 ### Don't be shy, say hi 😊👊
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/owehbeh/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/owehbeh)
@@ -63,7 +65,6 @@
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-
 
 <!--
 **owehbeh/owehbeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
